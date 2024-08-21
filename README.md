@@ -1,6 +1,6 @@
 # Zen of Code
 
-### Dicas e Ensinamentos de algumas batalhas já vencidades  
+### Dicas e Ensinamentos obtidos através de algumas batalhas já vencidades  
 
 __1 - Prepare o ambiente__
 
