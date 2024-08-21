@@ -1,6 +1,8 @@
 # Zen of Code
 
-1 - Prepare o ambiente
+### Dicas e Ensinamentos de algumas batalhas já vencidades  
+
+__1 - Prepare o ambiente__
 
 - debugger
 - linter
@@ -10,20 +12,20 @@
 - comandos ou scritps para executar ações repetitivas
 - README
 
-2 - Entenda o problema
+__2 - Entenda o problema__
 
 - procure sempre entender o problema antes de começar a codar, anote observações e pensamentos sobre o projeto.
 - crie diagramas e documentação pra deixar claro o que precisa ser feito (whimsical, excalidraw)
 - crie TODO's no codigo para se lembrar o que precisa ser feito ou melhorado ao longo do processo
 - todo projeto tem regras funcionais, não funcionais e regras de negocio
 
-3 - Resolva os problema de um jeito inteligente
+__3 - Resolva os problema de um jeito inteligente__
 	
 - pense em mais de uma forma para resolver o problema
 - perca um tempo lendo documentação e testando coisas
 - não faça uma solução na qual você não sabe ao certo como funciona
 
-4 - Erros comuns
+__4 - Erros comuns__
 	
 - codigos monoliticos, ou arquivos com muitas linhas. Um script com centanas ou milhares de linhas 
 são terriveis para de debugar, entender, manter e implementar novas fetuares.
@@ -38,11 +40,13 @@ são terriveis para de debugar, entender, manter e implementar novas fetuares.
 
 - complexidade de algoritmos (for aninhados) são aqueles que possuem mais de um 'for' para realizar algum tipo de função que em grande quantidade de iterações pode provocar algum bound de recursos. lembre-se o resultado de apenas 2 for é o produto deles  
 
-5 - Dicas
+__5 - Dicas__
 	
 - organize seu codigo
-- tenha sprints tarefas e entregas
+- organize seu tempo
+- organize suas tarefas
 - nao tenha medo de ter varios arquivos uma para cada finalidade
+- trabalhe utilizando sprints
 - escreva testes automatizados
 - faça a tipagem do seu codigo
 - use helper/docstrings de suas funções
@@ -54,7 +58,7 @@ são terriveis para de debugar, entender, manter e implementar novas fetuares.
 - tenha backup
 - tenha rollback
 
-6 - Escrevendo o README
+__6 - Escrevendo o README__
 	
 - Descreva o objetivo do seu projeto
 - Stack
