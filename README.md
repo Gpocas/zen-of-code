@@ -70,7 +70,8 @@ __6 - Escrevendo o README__
 - Defina quem são os usuarios chaves do seu projeto
 
 
+__7 - Debugging__
 
+<img src="./debugging-manifesto.png">
 
-
-
+...créditos da imagem [@guites](https://github.com/guites)
