@@ -28,7 +28,7 @@ Ensinamentos obtidos de algumas batalhas já vencidas e perdidas
 - Pense em mais de uma forma para resolver o problema
 - Perca um tempo lendo documentação e testando coisas
 - Não faça uma solução na qual você não sabe ao certo como funciona
-- se seu código está repetitivo, provavelmente essa não é a melhor solução 
+- Se seu código está repetitivo, provavelmente essa não é a melhor solução 
 
 ### 4. anti-padrões
 	
