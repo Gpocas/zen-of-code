@@ -18,7 +18,6 @@ Ensinamentos obtidos de algumas batalhas já vencidas e perdidas
 - linter
 - formats
 - gitignore
-- Ambiente virtual
 - makefile, justifile, procfile
 - README
 
