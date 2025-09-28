@@ -57,7 +57,7 @@ são terríveis para de debugar, entender, manter e implementar novas features.
 - Separe seus ambientes (desenvolvimento, homologação, produção)
 - Use Infraestrutura como código IaC (Terraform, Kubernetes, Docker-Swarm)
 - Use CI/CD (Jenkins, Travis, Actions)
-- Use opentelemetry (logs, métricas, traces)
+- Use opentelemetry (logs, métricas, traces, profile)
 
 ### 6. escrevendo seu README
 
