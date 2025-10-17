@@ -29,7 +29,27 @@ Ensinamentos obtidos de algumas batalhas já vencidas e perdidas
 - Perca um tempo lendo documentação e testando coisas
 - Não faça uma solução na qual você não sabe ao certo como funciona
 - Se seu código está repetitivo, provavelmente essa não é a melhor solução 
-- Crie sua solução imaginando o pior cenário 
+- Crie sua solução imaginando o pior cenário, mas cuidado com [Overengineering](https://en.wikipedia.org/wiki/Overengineering)
+
+### 3.1 como enfrentar um problema?
+	
+#### 3.1.1 antes de resolver o problema:
+
+- qual foi o problema?
+- porque ele aconteceu?
+- como ele pode voltar a acontecer?
+- reproduza o erro, Exemplo Mínimo Reproduzível [EMR](https://stackoverflow.com/help/minimal-reproducible-example)
+
+#### 3.1.2 como resolver um problema?:
+- planeje a sua solução
+- o que sua alteração pode impactar
+- teste sua solução com base no EMR
+
+#### 3.1.3 relexões:
+- tenha sangue frio, um problema precisa ser revolvido com calma
+- resolva o problema de traz para frente, comece pelo nível mais baixo da aplicação e venha subindo
+- o problema não precisa ser resolvido no mesmo dia, anote e volte amanhã
+- gambiarra gera mais gambiarra e stress gera mais stress
 
 ### 4. anti-padrões
 	
